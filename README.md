@@ -1,0 +1,2 @@
+# IP-Webcam-Stream-Image-Capture-with-Streamlit
+This project integrates IP Webcam with Streamlit to capture and display real-time camera frames from an Android device. Users can: Stream live video from their phone's camera  Capture images with a single button click  Save &amp; download captured images  Use a responsive UI for better visualization  Built with Python, Streamlit, OpenCV, and Requests.
